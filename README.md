@@ -1,2 +1,3 @@
 # FMRI_Preprocessing
-Basic Preprocessing: fMRIPrep (Bash) &lt;br> Noise Regression: Nilearn (Python)
+Basic Preprocessing: fMRIPrep (Bash) <br> 
+Noise Regression: Nilearn (Python)
